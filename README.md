@@ -56,9 +56,7 @@ This task helped reinforce how crucial it is to clean and format data before usi
 
 ---
 
-## 📷 Screenshot
 
-![Excel Data Cleaning Task](./your-screenshot-file.png)
 
 ---
 
